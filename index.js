@@ -1,4 +1,4 @@
-/* CURRENTLY WORKING ON CODE */
+/* 30.6.2022 */
 
 // 1)
 function calculateSum(a, b) {
@@ -120,3 +120,6 @@ function doesStringStartWith(string){
 }
 
 console.log(doesStringStartWith('Los Angeles'), 'Los Angeles')
+
+
+/* end of 30.6.2022 */
